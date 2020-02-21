@@ -17,6 +17,7 @@ export class MenuComponent {
     { caminho: '/', descricao: 'Home'  },
     { caminho: '/endereco', descricao: 'Endereço'  },
     { caminho: '/arvore', descricao: 'Árvore'  },
+    { caminho: '/arrasta-solta', descricao: 'Arrastar e Soltar'  },
     { caminho: '/outros', descricao: 'Outros'  },
   ];
 
