@@ -15,6 +15,7 @@ export class MenuComponent {
 
   public readonly itensMenu = [
     { caminho: '/', descricao: 'Home'  },
+    { caminho: '/endereco', descricao: 'Endereço'  },
     { caminho: '/outros', descricao: 'Outros'  },
   ];
 
